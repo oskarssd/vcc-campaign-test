@@ -1,0 +1,10 @@
+# Node packages
+node_modules/
+
+# Reports from test runs
+allure-report/
+allure-results/
+
+# Local debug logs
+logs/
+debug.log
